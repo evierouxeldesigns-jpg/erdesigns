@@ -33,6 +33,11 @@ nav {
   align-items: center;
 }
 
+.middle img {
+  margin:10px;
+  height: 400px;
+}
+
 .middle h3 {
   color: #d71920;
   font-size: 2rem;
